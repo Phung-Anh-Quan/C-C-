@@ -1,0 +1,13 @@
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\bin\Debug\BaiCuoiKi.exe.config
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\bin\Debug\BaiCuoiKi.exe
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\bin\Debug\BaiCuoiKi.pdb
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.csproj.AssemblyReference.cache
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.Properties.Resources.resources
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.csproj.GenerateResource.cache
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.csproj.CoreCompileInputs.cache
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.exe
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.pdb
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.DangNhap.resources
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.DangKy.resources
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.QuanLy.resources
+C:\Users\May-21\source\repos\BaiCuoiKi\BaiCuoiKi\obj\Debug\BaiCuoiKi.TrangChu.resources
